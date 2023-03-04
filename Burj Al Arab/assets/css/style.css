@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.btn {
+    border: 0px solid #999;
+    padding: 15px 30px;
+    background-color: rgb(255, 200, 0);
+    border-radius: 5px;
+    color: blue;
+    margin-right: 30px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: rgb(255, 200, 0);
+    border: 0px solid #999;
+    color: blue;    
+}
+
+.arab {
+    color: azure;
+    font-size: 8px;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Burj {
+    background-image: url(../img/photo_2023-01-20_15-08-44.jpg);
+    background-repeat: no-repeat;
+    background-size: 1640px;
+}
+
+.al {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.col {
+    width: 200px;
+    margin-left: ;
+}
+
+
+
+    /* //// linklar //// */ 
+    
+    https://www.jumeirah.com/ru/stay/dubai/burj-al-arab-jumeirah?hotelItemId=ee23c456-990b-4f7b-b7db-de9ed2dd4d8a&bookingWithPoints=false
+
+    
+
+    /* //// linklar //// */
